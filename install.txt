@@ -1,0 +1,6 @@
+pip install -r requirements.txt
+install vc_redist.x64
+pip install scipy-1.0.1-cp36-cp36m-win32.whl
+pip install numpy-1.14.5+mkl-cp36-cp36m-win_amd64.whl // 1.14.2+mkl is better than 1.14.5\
+pip install matplotlib-2.2.3-cp36-cp36m-win_amd64.whl
+pip install dlib-19.7.0-cp36-cp36m-win_amd64.whl
